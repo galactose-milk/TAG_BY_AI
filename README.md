@@ -8,7 +8,7 @@ A custom reinforcement learning environment where two agents (a chaser and a run
 ### Image of reward system
   ![Image 1](media/image_1.png)
 ### Video
-  ![video](media/vid_1.webm)
+  ![video](media/vid_1.gif)
 
 
 ---
