@@ -4,6 +4,15 @@ A custom reinforcement learning environment where two agents (a chaser and a run
 
 ---
 
+## Images
+### Image of reward system
+  ![Image 1](media/image_1.png)
+### Video
+  ![video](media/vid_1.webm)
+
+
+---
+
 ## 🚀 Project Features
 - **Custom Gym Environment**: A 5x5 grid with two agents.
 - **Reinforcement Learning**: Implements Q-learning to train the chaser.
